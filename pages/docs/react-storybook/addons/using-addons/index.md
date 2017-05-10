@@ -3,7 +3,7 @@ id: 'using-addons'
 title: 'Using Addons'
 ---
 
-By default, Storybook comes with two addons, which are [actions](https://github.com/storybooks/storybook/tree/master/packages/addon-actions) and [links](https://github.com/storybooks/storybook/tree/master/packages/addon-links). But you can use any third party addons distributed via NPM.
+By default, Storybook comes with a single addon, which is [actions](https://github.com/storybooks/storybook/tree/master/packages/addon-actions). But you can use any third party addons distributed via NPM.
 
 Here's how to do it.
 
