@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://storybooks.js.org/404.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/addons/addon-gallery/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/addons/api/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/addons/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/addons/using-addons/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/addons/writing-addons/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/basics/exporting-storybook/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/basics/faq/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/basics/introduction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/basics/quick-start-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/basics/slow-start-guide/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/basics/writing-stories/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/configurations/add-custom-head-tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/configurations/cli-options/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/configurations/custom-babel-config/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/configurations/custom-webpack-config/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/configurations/default-config/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/configurations/env-vars/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/configurations/serving-static-files/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/testing/css-style-testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/testing/interaction-testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/testing/manual-testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/testing/react-ui-testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/docs/react-storybook/testing/structural-testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/examples/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://storybooks.js.org/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
