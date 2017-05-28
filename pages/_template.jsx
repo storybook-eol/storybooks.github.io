@@ -6,6 +6,11 @@ import { colors, activeColors } from 'utils/colors';
 import { rhythm, adjustFontSizeTo } from 'utils/typography';
 import { config } from 'config';
 
+let { window } = global;
+if (!window) {
+  window = { location: { href: '' } };
+}
+
 const PREFIX = 'https://storybook.js.org';
 const redirectHref = ({ protocol, host, href }) => {
   const match = href.match(/\/docs\/react-storybook(.*)$/);
