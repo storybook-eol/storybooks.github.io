@@ -47,7 +47,7 @@ to write great stories.
 * Do not write app-specific code inside your UI components.
 
 ~~~js
-import { linkTo } from @kadira/Storybook
+import { linkTo } from @storybook/addon-links
 
 storiesOf('Toggle', module)
   .add('on', () => {
